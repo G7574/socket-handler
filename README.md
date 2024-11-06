@@ -2,7 +2,8 @@
 #### A flexible .NET WebSocket manager for connection handling, identifier-based routing, and broadcasting, with customizable Type
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-  
+![Plugin Banners](https://github.com/user-attachments/assets/1147e680-7be5-4845-87f9-795f1615993c)
+
 Install the package from NuGet:
 ```bash
 dotnet add package SocketHandler
