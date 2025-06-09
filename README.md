@@ -1,7 +1,7 @@
 # SocketHandler
 #### A flexible .NET WebSocket manager for connection handling, identifier-based routing, and broadcasting, with customizable Type
  
-![Plugin Banners](https://github.com/user-attachments/assets/1147e680-7be5-4845-87f9-795f1615993c)
+![Plugin Banners](https://github.com/user-attachments/assets/ac5191e5-9212-4c6d-b13d-74d32f832524)
 
 Install the package from NuGet:
 ```bash
